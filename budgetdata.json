@@ -1,2 +1,4 @@
-{"myBudget":[{"title":"Eat out", "budget": 30},{"title": "Rent", "budget": 350},{"title": "Shopping", "budget": 350},{"title": "Entertainment", "budget": 350},{"title": "Utility", "budget": 350},{"title": "Medical", "budget": 350},{"title": "Grocery", "budget": 90}]}
+
+
+[{"title": "Rent", "budget": 350,"color":"#CDE5D7"},{"title": "Shopping", "budget": 350,"color": "#DED6D1"},{"title": "Entertainment", "budget": 350, "color":"#EEC6CA"},{"title": "Utility", "budget": 350,"color": "#FFB7C3"},{"title": "Medical", "budget": 350,"color": "#fae1dd"},{"title": "Grocery", "budget": 90,"color": "#d8e2dc"}]
         
